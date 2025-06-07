@@ -1,0 +1,23 @@
+{
+    "stream": false,
+    "context": {
+        "overrides": {
+            "retrieval_mode": "hybrid",
+            "semantic_ranker": true,
+            "semantic_captions": false,
+            "top": 4,
+            "minimum_search_score": 0.0,
+            "minimum_reranker_score":0.0,
+            "suggest_followup_questions": true,
+            "exclude_category": false,
+            "use_oid_security_filter": false,
+            "use_groups_security_filter": false,
+            "temperature": 0.4,
+            "semantic_configuration_name": "my-semantic-config",
+            "area":"regulations",
+            "vertical": "regulations"
+        }
+    },
+    "auth_claims": {},
+    "session_state": null
+}
